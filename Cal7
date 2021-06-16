@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1, DIRECTV SPORTS
+https://directvsports-live.akamaized.net/hls/live/2026679/DTVSAR/stream05/hdntl=exp=1623870339~acl=%2f*~data=hdntl~hmac=2576bb48f03d3be4c88dd5610d70ddc01c15fd26a0a831811a4e7bf2b4481fec/streamPlaylist.m3u8
